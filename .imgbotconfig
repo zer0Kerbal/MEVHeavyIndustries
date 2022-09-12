@@ -1,7 +1,7 @@
 {
     "schedule": "weekly",
     "ignoredFiles": [
-        "GameData/NecroBones/ElephantEngine/*",
+        "GameData/MEVHeavyIndustries'*",
         "source/*",
         "**/@thumbs/**",
         "**/Agencies/**",
