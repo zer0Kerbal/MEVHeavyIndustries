@@ -132,7 +132,7 @@ parts, config
 
 #### Original (0) - Author: [`Cyne`][cyne]
 
-> Forum: [Thread][MOD:0:thread] - Download: [Dropbox][MOD:0:dnload] - Source: [Dropbox][MOD:0:source]  
+> Forum: [Thread][MOD:0:thread] - Download: [SpaceDock][MOD:0:dnload] - Source: [SpaceDock][MOD:0:source]  
 > License: [![License][LIC:0:shd]][LIC:0:url] ![License][LIC:0:log]
 
 ---
@@ -151,7 +151,6 @@ parts, config
 [MOD:discu]: https://github.com/zer0Kerbal/MEVHeavyIndustries/discussions "Discussions"
 [MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/209730-*/ "MEVHeavyIndustries Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/MEVHeavyIndustries/issues "Issues"
-[MOD:assmb]: https://zer0kerbal.github.io/MEVHeavyIndustries/Assembly "Assembly Guide"
 [MOD:markt]: https://zer0kerbal.github.io/MEVHeavyIndustries/Marketing "Marketing Slicks"
 [MOD:notic]: https://zer0kerbal.github.io/MEVHeavyIndustries/Notices "Notices"
 [MOD:parts]: https://zer0kerbal.github.io/MEVHeavyIndustries/PartsCatalog "Parts Catalog"
@@ -163,12 +162,8 @@ parts, config
 [MOD:pages:shd]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
 <!--- mod provenance -->
-[MOD:1:dnload]: https://www.dropbox.com/s/85og3xdhark7com/MEVHeavyIndustries5.rar "Dropbox"
-[MOD:1:source]: https://www.dropbox.com/s/85og3xdhark7com/MEVHeavyIndustries5.rar "Dropbox"
-[MOD:1:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/64520-*/ "KSP Forum"
-
-[MOD:0:dnload]: https://www.dropbox.com/s/85og3xdhark7com/MEVHeavyIndustries5.rar?dl=0 "Dropbox"
-[MOD:0:source]: https://www.dropbox.com/s/85og3xdhark7com/MEVHeavyIndustries5.rar?dl=0 "Dropbox"
+[MOD:0:dnload]: http://spacedock.info/mod/2621 "SpaceDock"
+[MOD:0:source]: http://spacedock.info/mod/2621 "SpaceDock"
 [MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/64520-*/ "KSP Forum"
 
 <!--- license provenance -->
