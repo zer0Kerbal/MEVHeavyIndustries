@@ -24,14 +24,14 @@ updated: 03 Jun 2022
 ### Credits
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/93697-*/"><img border="0" alt="dtobi" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/set_resources_17/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png" width="50" height="50" > DaMichel</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/" alt="DaMichel Ltd (KM)"> the DaMichel series of parts addons!</a></li>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/81209-*/"><img border="0" alt="Bezzier" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/set_resources_17/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png" width="50" height="50" > Bezzier</a> for picking up where DaMichel left off (Color Curves)</li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/206520-*/"><img border="0" alt="Cyne" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2022_05/ApplicationFrameHost_Df3bIsYxEU-min.thumb.png.8c1d47d489d63a3947f1fb22ae46da03.png" width="50px" height="50px" > Cyne</a> for creating the <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/209730-*/" alt="MEV Heavy Industries (MEV)">MEV Heavy Industries</a> (MEV) part addon</li>
   <li><i>Thank you to everyone who gave feedback! It's very important for me and highly appreciated.</i></li>
 </ul>
 
 ### Flag(s)
 
 <ul>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/206520-*/"><img border="0" alt="Cyne" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2022_05/ApplicationFrameHost_Df3bIsYxEU-min.thumb.png.8c1d47d489d63a3947f1fb22ae46da03.png" width="50px" height="50px" > Cyne</a></li>
   <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/"><img border="0" alt="zer0Kerbal" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" width="50" height="50" > zer0Kerbal</a></li>
 </ul>
 
@@ -63,16 +63,15 @@ updated: 03 Jun 2022
 ### Testing and Support
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/133828-eightiesboi/"><img border="0" alt="eightiesboi" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_01/happy_velociraptor_dinosaur_greeting_cards-r918b99ab65894a198682f360e419773a_xvuak_8byvr_512.thumb.jpg.00c28897eef8a91ee74f6cb59a9bbb5f.jpg" width="50" height="50" > eightiesboi</a></li>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/66411-zelda/"><img border="0" alt="Zelda" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2019_07/LoZ_RGB_960x960.thumb.jpg.32a815400e819b11482764bdea71373c.jpg" width="50" height="50" > Zelda</a></li>
+  <li>none</li>
 </ul>
 
 <!-- links -->
-[DML]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "DaMichel Ltd Forum Thread"
+[MEV]: https://forum.kerbalspaceprogram.com/index.php?/topic/209730-*/ "MEV Heavy Industries Forum Thread"
 
-[damichel]: https://forum.kerbalspaceprogram.com/index.php?/profile/93697-*/ "damichel"
-[bezzier]: https://forum.kerbalspaceprogram.com/index.php?/profile/81209-*/ "Bezzier"
 [cptkipard]: https://forum.kerbalspaceprogram.com/index.php?/profile/70516-*/ "Captain Kipard"
+
+[cyne]: https://forum.kerbalspaceprogram.com/index.php?/profile/206520-*/ "Cyne"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
 <!-- Localization -->
