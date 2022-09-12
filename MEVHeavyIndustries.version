@@ -1,5 +1,5 @@
 {
-	"NAME"			 : "MEVHeavyIndustries ()",
+	"NAME"			 : "MEVHeavyIndustries (MEV)",
 	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/MEVHeavyIndustries/master/MEVHeavyIndustries.version",
 	"DOWNLOAD"		 : "https://github.com/zer0Kerbal/MEVHeavyIndustries/releases/latest",
 	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/MEVHeavyIndustries/master/changelog.md",
@@ -11,9 +11,9 @@
 	},
 	"VERSION" :
 	{
-		"MAJOR" : 0,
-		"MINOR" : 3,
-		"PATCH" : 1,
+		"MAJOR" : 1,
+		"MINOR" : 0,
+		"PATCH" : 0,
 		"BUILD" : 0
 	},
 	"KSP_VERSION" :
@@ -37,11 +37,6 @@
 	"INSTALL_LOC" :
 	{
 		"NAME" :	  "MEVHeavyIndustries",
-		"DIRECTORY" : "SubName/MEVHeavyIndustries"
-	},
-	"INSTALL_LOC" :
-	{
-		"NAME" : "Ships",
-		"DIRECTORY: "Ships"
+		"DIRECTORY" : "MEVHeavyIndustries"
 	}
 }
