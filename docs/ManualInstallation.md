@@ -66,17 +66,14 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
         ...
       + [Parts]
         ...
-      + [Plugins]
-        ...
       * #.#.#.#.htm
       * Attributions.htm
+      * CC-BY-NC-SA-4.0.txt
       * changelog.md
-      * License.txt
         ManualInstallation.htm
       * readme.htm
       * MEVHeavyIndustries.version
     ...
-    * [Module Manager][mm] or [Module Manager /L][mml]
     * ModuleManager.ConfigCache
   * KSP.log
   ...
@@ -84,11 +81,4 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
 ### Dependencies
 
-* [SimpleConstruction! (SCON!)][SCON]
-* *either*
-  * [Module Manager][mm]
-  * [Module Manager /L][mml]
-
-[SCON]: https://forum.kerbalspaceprogram.com/index.php?/topic/191424-* "SimpleConstruction! (SCON!)"
-[mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
-[mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
+* None
