@@ -118,7 +118,7 @@ parts, config
 
 ### Legal Mumbo Jumbo (License *provenance*)
 
-#### Current (2) - [`zer0Kerbal`][zer0Kerbal]
+#### Current (1) - [`zer0Kerbal`][zer0Kerbal]
 
 > Forum: [Thread][MOD:forum] - Source: [GitHub][GITHUB:url]  
 > License: [![License][LIC:shd]][LIC:url] ![License][LIC:log]
