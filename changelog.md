@@ -1,4 +1,14 @@
-# changelog
+# Changelog  
+  
+| modName    | MEV Heavy Industries (MEV)                                          |
+| ---------- | ----------------------------------------------------------------- |
+| license    | CC-BY-NC-SA-4.0                                                   |
+| author     | Cyan and zer0Kerbal                                               |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/209730-*/) |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/MEVHeavyIndustries)     |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/MEVHeavyIndustries)   |
+| spacedock  | (https://spacedock.info/mod/2621)                                 |
+| ckan       | MEVHeavyIndustries                                                |
 
 ## Version 1.0.2.0-release `<Archival>`
 
