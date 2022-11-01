@@ -2,7 +2,6 @@
 permalink: /Marketing.html
 title: Marketing Images
 description: camera goes *click-click*
-# layout: bare
 tags: marketing,pr,page,kerbal,ksp,zer0Kerbal,Lisias,zedK
 ---
 
@@ -16,7 +15,7 @@ based upon work by LisiasT -->
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa-solid fa-user-astronaut fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #BADA55" ></i>
 
-# MEV Heavy Industries (MEV)
+# MEV Heavy Industries (MEV) [WIP]
 
 [Home](./index.md)
 
