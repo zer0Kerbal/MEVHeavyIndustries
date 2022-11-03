@@ -27,19 +27,19 @@ This parts add-on adds four (4) engine parts
 
 * Epstein Drive (variants)
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/MEVHeavyIndustries/master/docs/%40thumbs/mev-EpsteinDrive_icon1.png" alt="EpsteinDrive_icon1" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/MEVHeavyIndustries/master/docs/%40thumbs/mev-EpsteinDrive_icon0.png" alt="EpsteinDrive_icon0" width="25%" height="25%" /> 
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/MEVHeavyIndustries/master/docs/%40thumbs/mev-EpsteinDrive_icon0.png" alt="EpsteinDrive_icon0" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/MEVHeavyIndustries/master/docs/%40thumbs/mev-EpsteinDrive_icon1.png" alt="EpsteinDrive_icon1" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/MEVHeavyIndustries/master/docs/%40thumbs/mev-EpsteinDrive_icon2.png" alt="EpsteinDrive_icon2" width="25%" height="25%" />
 
 * Epstein Drive (smaller)
 
   <img src="https://raw.githubusercontent.com/zer0Kerbal/MEVHeavyIndustries/master/docs/%40thumbs/mev-EpsteinDriveV4_icon.png" alt="EpsteinDriveV4_icon" width="25%" height="25%" />
 
-* Bussard Fusion (four variants)
+* Bussard Fusion (variants)
 
   <img src="https://raw.githubusercontent.com/zer0Kerbal/MEVHeavyIndustries/master/docs/%40thumbs/mev-BussardFusion_icon0.png" alt="BussardFusion_icon0" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/MEVHeavyIndustries/master/docs/%40thumbs/mev-BussardFusion_icon1.png" alt="BussardFusion_icon1" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/MEVHeavyIndustries/master/docs/%40thumbs/mev-BussardFusion_icon2.png" alt="BussardFusion_icon2" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/MEVHeavyIndustries/master/docs/%40thumbs/mev-BussardFusion_icon3.png" alt="BussardFusion_icon3" width="25%" height="25%" /> 
 
-* Daedalus Drive
+* Daedalus Drive (variants)
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/MEVHeavyIndustries/master/docs/%40thumbs/mev-DaedalusDrive_icon0.png" alt="DaedalusDrive_icon0" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/MEVHeavyIndustries/master/docs/%40thumbs/mev-DaedalusDrive_icon1.png" alt="DaedalusDrive_icon1" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/MEVHeavyIndustries/master/docs/%40thumbs/mev-DaedalusDrive_icon2.png" alt="DaedalusDrive_icon2" width="25%" height="25%" /> 
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/MEVHeavyIndustries/master/docs/%40thumbs/mev-DaedalusDrive_icon0.png" alt="DaedalusDrive_icon0" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/MEVHeavyIndustries/master/docs/%40thumbs/mev-DaedalusDrive_icon1.png" alt="DaedalusDrive_icon1" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/MEVHeavyIndustries/master/docs/%40thumbs/mev-DaedalusDrive_icon2.png" alt="DaedalusDrive_icon2" width="25%" height="25%" />  <img src="https://raw.githubusercontent.com/zer0Kerbal/MEVHeavyIndustries/master/docs/%40thumbs/mev-DaedalusDrive_icon3.png" alt="DaedalusDrive_icon3" width="25%" height="25%" /> 
 
 
 ---
