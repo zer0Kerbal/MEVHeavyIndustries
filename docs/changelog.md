@@ -33,7 +33,8 @@ CC BY-ND 4.0 by zer0Kerbal --># Changelog
 
 * search for 'mev' in editor for all parts
 * part tags
-* 
+* updated, linted, and reorganized
+* parts/addon now fully localized (en-us only)
 
 ### Localization 1.0.99.0
 
@@ -90,8 +91,12 @@ CC BY-ND 4.0 by zer0Kerbal --># Changelog
   * duplicate textures
   * duplicate models
 * relocate part.cfg to Parts/
-* added <ghostParts.cfg> v1.3.0.0
-  * part names changed, this should prevent damage to save games.
+* Add
+  * <ghostParts.cfg> v1.3.0.0
+    * part names changed, this should prevent damage to save games.
+  * <Resources.cfg> v1.0.0.0
+    * If Community Resource Pack (KSPIE) is not installed adds resources for the Daedulus (this is a kludge)
+    * includes the localization strings for these resources
 * closes #2 - Part Asset Updates
 
 ### Archival Releases
