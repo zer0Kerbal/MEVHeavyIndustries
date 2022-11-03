@@ -15,7 +15,7 @@ updated: 04 Sep 2022 -->
 
 Daedalus, Bussard and Epstein drives for Kerbal Space Program.
 
-
+Daedalus drive requires [KSP Interstellar Extended][kspie]
 
 ## By [`zer0Kerbal`][zer0Kerbal], originally by [`Cyne`][cyne]
 
