@@ -19,6 +19,12 @@
 
 ### Adoption by zer0Kerbal
 
+### Summary 1.0.99.0
+
+* search for 'mev' in editor for all parts
+* part tags
+* 
+
 ### Localization 1.0.99.0
 
 * Localization directory and contents
@@ -74,6 +80,8 @@
   * duplicate textures
   * duplicate models
 * relocate part.cfg to Parts/
+* added <ghostParts.cfg> v1.3.0.0
+  * part names changed, this should prevent damage to save games.
 * closes #2 - Part Asset Updates
 
 ### Archival Releases
