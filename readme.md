@@ -49,7 +49,6 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 > * Compatibility patches
 > * Contracts for these glorious parts
 > * Variant Textures
-> * Converting from FireSpitter to Stock and/or KSPWheel  
 > * Model updates to Unity 2019
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlight
 > * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
@@ -71,34 +70,30 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
   CurseForge/OverWolf App (currently does not install dependencies)  
 
   <a href="https://download.curseforge.com/">
-    <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="15%" height="15%">
+    <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="25%" height="25%">
 </a>
 
-I take no part, nor am I interested in maintaining the [CKAN][ckan:url] mod metadata for my mods.
-
-[CKAN][ckan:url] is a great mod for those that can't use zip tools.
-
-If you are having issues please let the [CKAN][ckan:url] people know and refer to the [CKAN][ckan:url] thread.
-
-My support of [CKAN][ckan:url] extends as far as me checking the checkbox in Spacedock when I upload.
-
-Beware, [CKAN][ckan:url] *can* really mess up though it tries very, very, very hard not to.
+I take no part, nor am I interested in maintaining the [CKAN][ckan:url] mod metadata for my mods. [CKAN][ckan:url] is a great mod for those that can't use zip tools. If you are having issues please let the [CKAN][ckan:url] people know and refer to the [CKAN][ckan:url] thread. My support of [CKAN][ckan:url] extends as far as me checking the checkbox in Spacedock when I upload. Beware, [CKAN][ckan:url] *can* really mess up though it tries very, very, very hard not to.
 
 or [![CKAN][ckan:img]][ckan:url]
 
 ### Dependencies
 
 * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
-* [Interstellar Fuel Switch (Core)][ifsc] or [Interstellar Fuel Switch][ifs] 
+
+### Suggests
+
+* [On Demand Fuel Cells (ODFC)][ODFC]
+* [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
 
 ### Supports
 
 * Either [^3]
-  * [Module Manager][mm]
   * [Module Manager /L][mml]
-
-* [On Demand Fuel Cells (ODFC)][ODFC]
-* [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
+  * [Module Manager][mm]
+* [KSP Interstellar Extended (KSPIE)][kspie]
+* [Interstellar Fuel Switch (Core)][ifsc] or [Interstellar Fuel Switch][ifs]
+* [TweakScale (TWK)][twk]
 
 ### Tags
 
@@ -198,19 +193,11 @@ parts, config
 [GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
 [ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells (ODFC)"
 
-[atp]: https://forum.kerbalspaceprogram.com/index.php?/topic/138433-*/ "JSI Advanced Transparent Pods"
-[b9ps]: https://forum.kerbalspaceprogram.com/index.php?/topic/140541-*/ "B9 Part Switch"
-[fs]: https://github.com/snjo/Firespitter/ "Firespitter"
-[far]: https://forum.kerbalspaceprogram.com/index.php?/topic/179445-*/ "FAR"
-[kas]: http://forum.kerbalspaceprogram.com/index.php?/topic/142594-*/ "Kerbal Attachment System"
-[kis]: http://forum.kerbalspaceprogram.com/index.php?/topic/149848-*/ "Kerbal Inventory System"
-[kjr]: https://forum.kerbalspaceprogram.com/index.php?/topic/184206-*/ "Kerbal Joint Reinforcement"
-[kurs]: https://github.com/linuxgurugamer/DockingCam "KURS style docking camera"
-[mas]:  https://forum.kerbalspaceprogram.com/index.php?/topic/160856-*/ "MOARdV's Avionics System"
+[ifsc]: http://forum.kerbalspaceprogram.com/index.php?/topic/106243-*/ "Interstellar Fuel Switch (Core)"
+[ifs]: http://forum.kerbalspaceprogram.com/index.php?/topic/106243-*/ "Interstellar Fuel Switch"
+[kspie]: https://forum.kerbalspaceprogram.com/index.php?/topic/172026-*/ "KSP Interstellar Extended (KSPIE)"
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
-[restock]: https://forum.kerbalspaceprogram.com/index.php?/topic/182679-*/ "Restock"
-[rpm]: https://forum.kerbalspaceprogram.com/index.php?/topic/105821-*/ "Raster Prop Monitor"
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
 
 <!-- financial support -->
@@ -259,7 +246,13 @@ parts, config
 
 Track progress: issues [here][MOD:issue] and projects [here](https://github.com/zer0Kerbal/MEVHeavyIndustries/projects/) along with **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
 
-[<img align="left" alt="zer0Kerbal | kerbalspaceprogram.com" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/32/kerbalspaceprogram_93898.png" />][zer0Kerbal] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge] [<img align="left" alt="zer0Kerbal | reddit" width="32px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-reddit-4661631_122483.png" />][reddit] [<img align="left" alt="zer0Kerbal | Patreon" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][PATREON:url] [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube] [<img align="left" alt="zer0Kerbal | Twitch" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" />][twitch] [<img align="left" alt="zer0Kerbal | PayPal" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][PAYPAL:url] [<img align="left" alt="zer0Kerbal | Buy Me a Coffee" width="32px" src="https://www.buymeacoffee.com/assets/img/bmc-meta-new/new/favicon.ico" />][BMCC:url] [<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/32/Twitter_icon-icons.com_66803.png" />][twitter]</br>
+[<img align="left" alt="zer0Kerbal | kerbalspaceprogram.com" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/32/kerbalspaceprogram_93898.png" />][zer0Kerbal] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge] [<img align="left" alt="zer0Kerbal | reddit" width="32px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-reddit-4661631_122483.png" />][reddit] [<img align="left" alt="zer0Kerbal | Patreon" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][PATREON:url] [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube] [<img align="left" alt="zer0Kerbal | Twitch" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" />][twitch] [<img align="left" alt="zer0Kerbal | PayPal" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][PAYPAL:url] [<img align="left" alt="zer0Kerbal | Buy Me a Coffee" width="32px" src="https://www.buymeacoffee.com/assets/img/bmc-meta-new/new/favicon.ico" />][BMCC:url] [<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/twitter-32.ico" />][twitter]</br>
+
+##### Release Schedule
+
+1. GitHub, reaching first manual installers and users of KSP-AVC. Right now.
+2. CurseForge. Right now.
+3. SpaceDock (and CKAN users). Soon™
 
 <!-- footnotes -->
 [^1]: this isn't a mod. ;P  
