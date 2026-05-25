@@ -31,6 +31,12 @@ updated: 15 May 2022
 [License](./LegalMumboJumbo/License.md)
 [top](#legal-mumbo-jumbo)
 
+Copyright ©
+All Rights Reserved.
+
+Distribution limited to authorized Curseforge/Overwolf listings only.  
+May not update Spacedock nor CKAN with newer version(s).
+
 ### Forum I
 
 ![Forum](./LegalMumboJumbo/FORUM-01.png)
